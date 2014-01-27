@@ -1,0 +1,33 @@
+html {
+    font-family: century gothic;
+}
+
+body {
+    background-color:#fff;
+}
+
+p {
+    font-size: 1rem;
+    line-height:1.5rem;
+    background-color:#fff;
+    color:#c12
+}
+
+hr + P {
+    font-size:1.5rem;
+    font-weight: normal;
+    color:#c92;
+
+}
+
+ul,li { 
+    color:#c12;
+}
+
+h2 {
+    color:#000;
+}
+
+hr {
+    border: solid 3px #ccc;
+}
