@@ -31,3 +31,8 @@ h2 {
 hr {
     border: solid 3px #ccc;
 }
+
+hr + P {
+    font-size:1rem
+}
+    
